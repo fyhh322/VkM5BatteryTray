@@ -1,0 +1,10 @@
+# 运行时与迭代产物
+_scratch/
+*.log
+statecheck.exe
+menuprev.exe
+menupreview/
+
+# 编译器中间文件
+*.pdb
+*.bak
