@@ -12,6 +12,8 @@
 
 上图为按托盘真实尺寸（20×20）渲染后 6 倍放大的效果，从左到右：未知、5%、20%、45%、80%、100%。
 
+**[下载 VkM5BatteryTray.exe](https://github.com/fyhh322/VkM5BatteryTray/releases/latest/download/VkM5BatteryTray.exe)**　只支持 64 位 Windows，不需要装 .NET SDK。
+
 ## 直接使用
 
 双击 `VkM5BatteryTray.exe` 即可，图标出现在任务栏托盘区。
